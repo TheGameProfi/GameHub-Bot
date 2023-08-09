@@ -1,0 +1,18 @@
+{
+  "name": "afap-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The_Profi",
+  "license": "ISC",
+  "dependencies": {
+    "discord-fetch-all": "^3.0.2",
+    "discord.js": "^14.11.0",
+    "@discordjs/builders": "^1.6.3",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.9.2"
+  }
+}

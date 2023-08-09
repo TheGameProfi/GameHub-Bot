@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3f136cc-97e5-4036-a997-1b4a09074841" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AFAP-Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/ban.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/copy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/kick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/ticket-disable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/ticket-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy-commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events/guildMemberAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/antrag-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema.js/groupSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema.js/serverSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema.js/testSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema.js/ticketSchema.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrcLMjFOVr3M9pkI9Z3qaZlrL5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/modding/java/workspace/UtilityMod_1.12/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\mbg14\\AppData\\Local\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\223.8617.56\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mbg14\Coding\DC-Bots\AFAP-Bot" />
+      <recent name="C:\Users\mbg14\Coding\DC-Bots\AFAP-Bot\schema.js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mbg14\Coding\DC-Bots\AFAP-Bot\commands" />
+      <recent name="C:\Users\mbg14\Coding\DC-Bots\AFAP-Bot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="index" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3f136cc-97e5-4036-a997-1b4a09074841" name="Changes" comment="" />
+      <created>1676632586544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676632586544</updated>
+      <workItem from="1676632587690" duration="10429000" />
+      <workItem from="1676733063467" duration="360000" />
+      <workItem from="1676736503507" duration="73000" />
+      <workItem from="1676738550884" duration="39000" />
+      <workItem from="1676739909838" duration="412000" />
+      <workItem from="1676745236830" duration="19828000" />
+      <workItem from="1676766945970" duration="102000" />
+      <workItem from="1676807305308" duration="4655000" />
+      <workItem from="1679484214744" duration="33000" />
+      <workItem from="1679484336393" duration="368000" />
+      <workItem from="1679484724154" duration="217000" />
+      <workItem from="1683314189610" duration="12000" />
+      <workItem from="1683314210271" duration="1593000" />
+      <workItem from="1683316229273" duration="3009000" />
+      <workItem from="1683393242748" duration="2273000" />
+      <workItem from="1683400620081" duration="1007000" />
+      <workItem from="1683401959416" duration="182000" />
+      <workItem from="1684080274680" duration="53000" />
+      <workItem from="1684080338219" duration="11436000" />
+      <workItem from="1684098012301" duration="2564000" />
+      <workItem from="1684143294605" duration="10920000" />
+      <workItem from="1684154938074" duration="58000" />
+      <workItem from="1684180089555" duration="106000" />
+      <workItem from="1684267766209" duration="1887000" />
+      <workItem from="1684339723581" duration="7263000" />
+      <workItem from="1684347226513" duration="16000" />
+      <workItem from="1684361016493" duration="40000" />
+      <workItem from="1684749047917" duration="8763000" />
+      <workItem from="1684758324800" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
