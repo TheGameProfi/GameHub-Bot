@@ -1,4 +1,5 @@
 const { Events } = require("discord.js");
+const { interactionCounter, latencyGauge } = require('../prometheus_exporter');
 
 module.exports = {
     name: Events.InteractionCreate,
@@ -15,7 +16,12 @@ module.exports = {
         }
 
         try {
+ 	    interactionCounter.inc();
+            const startTime = Date.now();
             await command.execute(interaction);
+            const endTime = Date.now();
+            const duration = endTime - startTime;
+            latencyGauge.set(duration);
         } catch (error) {
             console.error(`Error executing ${interaction.commandName}`);
             console.error(error);

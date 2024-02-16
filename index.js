@@ -6,6 +6,8 @@ const path = require('path');
 const {SlashCommandBuilder} = require("@discordjs/builders");
 const { DISCORD_TOKEN } = process.env;
 
+const { startExporter } = require('./prometheus_exporter');
+
 const { Client, GuildMember, GatewayIntentBits, Collection, ModalBuilder, TextInputBuilder, ActionRowBuilder, Events, TextInputStyle, EmbedBuilder, ButtonBuilder, ButtonStyle, ChannelType,
     SelectMenuBuilder,
     PermissionsBitField
@@ -19,6 +21,8 @@ const client = new Client({
         GatewayIntentBits.GuildMessageReactions,
     ],
 });
+
+startExporter();
 
 const eventsPath = path.join(__dirname, `events`);
 const eventFiles = fs.readdirSync(eventsPath).filter(file => file.endsWith(`.js`));
